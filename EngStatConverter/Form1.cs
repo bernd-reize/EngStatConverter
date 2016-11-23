@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -14,6 +14,7 @@ namespace EngStatConverter
     public partial class Form1 : Form
     {
         string NewLine = System.Environment.NewLine;
+        
         private List<string> SelectionList = new List<string>();
         private List<int> SelectionIndexList = new List<int>();
         private List<string> rows = new List<string>();
