@@ -4,6 +4,7 @@ using System.IO;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
+// please use more comments :D
 namespace EngStatConverter
 {
     public partial class DataSelection : Form
