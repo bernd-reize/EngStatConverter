@@ -182,7 +182,6 @@ namespace EngStatConverter
                         }
                         else
                             subNode.ForeColor = System.Drawing.Color.Black;
-
             }
         }
 
